@@ -8,6 +8,8 @@
 
 #### React Icons (Optional)
 
+install react icons library
+
 #### Render First Person
 
 #### Prev and Next
